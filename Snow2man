@@ -1,0 +1,7 @@
+echo "# Snow2man" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Snow2man/Snow2man.git
+git push -u origin main￼Enter
